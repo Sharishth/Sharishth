@@ -1,29 +1,70 @@
-## Hi there 👋
-# ![image](https://avatars.githubusercontent.com/u/44324361?s=48&v=4) About Me
+<h1 align="center">👋 Sharishth Singh</h1>
+<p align="center"><i>Data Platform Engineer — real-time streaming analytics & cloud data warehousing</i></p>
 
-- 👋 I’m Sharishth Singh (@Sharishth).
-- 💼 I have 3 years of work experience.
-- 👀 I’m interested in traveling, photography and UI/UX design.
-- 🌱 I’m currently learning data science and machine learning.
-- 📫 You can reach me out on teams or my LinkedIn profile.
-- ⚡ My major skill sets are Tibco Streambase, Tibco Spotfire, python, javascript, html, css and reactjs.
-- 📊 I deal in the field of data analysis, mainly understanding the business flow, designing data streams and developing event-flow applications.
-- 🗂️ I have worked in various projects like telecommunication, oil & gas and logistics using TIBCO software (TMS, TEA, Spotfire and Streambase).
-- 🏅 I am certified in Oracle Cloud Infrastructure Foundations, Python and Responsive web design.
+<p align="center">~5 years designing and running data systems for large-scale logistics operations.</p>
 
+---
 
-<a href="https://www.linkedin.com/in/sharishth-singh/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> <a href="https://codepen.io/sharishth"> ![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white) </a>
-<!--
-**Sharishth/Sharishth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ What I Work On
 
-Here are some ideas to get you started:
+- ⚡ **Real-time streaming analytics** — built and maintain a multi-use-case event-processing platform powering live operational dashboards, handling continuous high-volume streams under strict latency requirements.
+- ☁️ **Cloud data warehousing** — architected a Snowflake-based data warehouse from the ground up: CDC ingestion (AWS DMS) → staging (RDS, S3) → compute (EC2), replacing a legacy on-premise setup.
+- 📊 **BI platform administration** — full lifecycle ownership of an enterprise BI/visualization platform: server admin, dashboard delivery, and a complete on-premise-to-cloud migration.
+- 🧰 **Tooling & automation** — Python utilities for data validation and internal alerting/notification workflows, packaged and distributed for reuse across teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎯 Interests as a Developer
+
+- 🧱 Dimensional data modeling — Kimball methodology, all SCD types, medallion architecture
+- 🔒 Pipeline correctness at scale — idempotency, backfills, quality gates, audit logging
+- 📈 The gap between "works in a demo" and "works at 100x" — partitioning, file sizing, compaction, orchestration under load
+- 🐘 SQL performance & dialect migration (Oracle → Snowflake) and the tradeoffs each warehouse forces
+- 🏗️ System design for data platforms — batch vs streaming, schema evolution, contract-driven pipelines
+
+---
+
+### 🚧 Currently Building
+
+> A self-contained, hand-written **shipment-tracking data pipeline** as a public reference project — raw ingestion through a medallion architecture (🥉 bronze → 🥈 silver → 🥇 gold), dbt-modeled dimensional layer with a real SCD Type 2 implementation, orchestration, data quality gates, and a documented *"what breaks at 100x"* section.
+>
+> Built without code generation — to demonstrate engineering judgment, not tool familiarity.
+
+---
+
+### 🧩 Stack
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+📡 Real-time / event-streaming systems &nbsp;|&nbsp; 📊 Enterprise BI platforms &nbsp;|&nbsp; 🗄️ AWS: DMS · RDS · S3 · EC2
+
+---
+
+### 🏅 Certifications
+
+| Certification | Area |
+|---|---|
+| ☁️ Oracle Cloud Infrastructure Foundations | Cloud fundamentals |
+| 🐍 Python | Programming |
+| 📱 Responsive Web Design | Frontend basics |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sharishth&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharishth&layout=compact&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+### 📬 Connect
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sharishth-singh/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
